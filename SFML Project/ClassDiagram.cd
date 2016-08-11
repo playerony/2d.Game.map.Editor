@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Block">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAIAAQAAACAAABGAAAAAAAAAAAAAAAAAGAAAAE=</HashCode>
+      <FileName>Block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button">
+    <Position X="3.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAoAAACAAAAIAAAQAAASAAAIIAAAAgAMIAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Editor">
+    <Position X="13.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Editor::State">
+        <TypeIdentifier>
+          <NewMemberFileName>Editor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Editor::Scroll">
+        <TypeIdentifier>
+          <NewMemberFileName>Editor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Editor::Move">
+        <TypeIdentifier>
+          <NewMemberFileName>Editor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQEIICAgAoAAAgoAQwDLTYIgABSAwgQwsDEggj5EAQU=</HashCode>
+      <FileName>Editor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exit">
+    <Position X="10.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAJgAAAgAABAIAAQKAIAAACASA4AIAIAIAAQBEAAE=</HashCode>
+      <FileName>Exit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileManager">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAAgAAQAABAAABAAAgAACAAAAAAIAQAAAARAA=</HashCode>
+      <FileName>FileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hud">
+    <Position X="18.25" Y="1" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Hud::State">
+        <TypeIdentifier>
+          <NewMemberFileName>Hud.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAAgiAAoIAACAAAxIAAAQAAISBgAIIACAAAIEEAAg=</HashCode>
+      <FileName>Hud.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Instruction">
+    <Position X="6" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Instruction::State">
+        <TypeIdentifier>
+          <NewMemberFileName>Instruction.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQIAAAAgAAAQIAAQAAKAAAAASIqAAAAAAAAQgEAAA=</HashCode>
+      <FileName>Instruction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Loader">
+    <Position X="21.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Loader::State">
+        <TypeIdentifier>
+          <NewMemberFileName>Loader.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAogAgBgEAABAAAQAAKQAAAASAoAIAAAAQAQAGAAA=</HashCode>
+      <FileName>Loader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadScreen">
+    <Position X="2.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAIAAAAAQAAIAAAAAAAgAAACAACAQAAAAA=</HashCode>
+      <FileName>LoadScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="8.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Menu::State">
+        <TypeIdentifier>
+          <NewMemberFileName>Menu.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAEgIAAAAkBAAQIAAQAAKAAASASI4AAAAAAAAQAEgAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteManager">
+    <Position X="15.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAYAIhAABBAAAAGAABDAAAAAAAABAAAABAVAAAAAAAA=</HashCode>
+      <FileName>SpriteManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
